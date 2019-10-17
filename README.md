@@ -1,5 +1,5 @@
 # Mediante esta Json y Angular 8 Podras saber como leerlo
-## Lic. Francisco Martinez Ramirez ####
+## Lic. Pako Martinez Ramirez ####
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
